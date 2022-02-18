@@ -4,3 +4,4 @@ C:\prjc\code\gittest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
 C:\prjc\code\gittest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\prjc\code\gittest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\prjc\code\gittest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\prjc\code\gittest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
