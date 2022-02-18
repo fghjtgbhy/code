@@ -1,0 +1,7 @@
+C:\prjc\code\gittest\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\prjc\code\gittest\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\prjc\code\gittest\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\prjc\code\gittest\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\prjc\code\gittest\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\prjc\code\gittest\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\prjc\code\gittest\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
