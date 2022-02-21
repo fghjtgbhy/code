@@ -12,7 +12,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             var num = ConfigurationManager.AppSettings["num"];
-            Console.WriteLine($"{num} new a");
+            Console.WriteLine($"{num} new app");
         }
     }
 }
